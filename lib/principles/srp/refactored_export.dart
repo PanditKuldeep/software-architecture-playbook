@@ -1,0 +1,9 @@
+export 'package:software_architecture_playbook/principles/srp/refactored/authentication_service.dart';
+export 'package:software_architecture_playbook/principles/srp/refactored/beneficiary_validator.dart';
+export 'package:software_architecture_playbook/principles/srp/refactored/cash_dispenser.dart';
+export 'package:software_architecture_playbook/principles/srp/refactored/transfer_service.dart';
+export 'package:software_architecture_playbook/principles/srp/refactored/withdrawal_policy.dart';
+export 'package:software_architecture_playbook/principles/srp/refactored/slip_processor.dart';
+export 'package:software_architecture_playbook/principles/srp/refactored/online_withdrawal_service.dart';
+export 'package:software_architecture_playbook/principles/srp/refactored/offline_withdrawal_service.dart';
+export 'package:software_architecture_playbook/principles/srp/refactored/main_refactored.dart';
